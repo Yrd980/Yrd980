@@ -1,12 +1,7 @@
 ## 📌 About Me
 
-Hi, I'm **Yrd980** — a CS graduate student, programmer, and deep thinker.
+Hi, I'm **Yrd980** — a CS graduate student dedicated to **AGI**.
 I use **Arch Linux** and enjoy building efficient, minimal, and powerful development environments.
-
-* 🔬 Dedicated to **AGI**
-* ⚙️ Passionate about performance (AVX2, kernel tuning), reproducibility, and portable setups
-
-> 🚀 I build with intention — small, composable tools that do one thing well.
 
 ---
 
